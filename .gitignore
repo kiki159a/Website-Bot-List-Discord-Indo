@@ -1,0 +1,9 @@
+# Packaging files
+package-lock.json
+node_modules/
+
+# Next files
+.next/
+
+# Old files
+old-components/
